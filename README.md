@@ -1,7 +1,7 @@
 # ADMFlow
 The official implementation code repository for [Learning Optical Flow from Event Camera with Rendered Dataset](https://arxiv.org/abs/2303.11011)
 
-<img src="assets/concept-show.png" width="600">
+<img src="assets/Datapipeline.png" width="600">
 
 ```
 @article{luo2023learning,
