@@ -116,3 +116,15 @@ If this work is helpful to you, please cite:
   journal={arXiv preprint arXiv:2303.11011},
   year={2023}
 }
+```
+## Acknowledgments
+
+Thanks the assiciate editor and the reviewers for their comments, which is very helpful to improve our paper. 
+
+Thanks for the following helpful open source projects:
+
+[ERAFT](https://github.com/uzh-rpg/E-RAFT), 
+[STE-FlowNet](https://github.com/ruizhao26/STE-FlowNet/),
+[v2e](https://github.com/SensorsINI/v2e),
+[KPAFlow](https://github.com/megvii-research/KPAFlow).
+
