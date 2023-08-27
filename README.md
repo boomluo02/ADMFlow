@@ -3,6 +3,14 @@ The official implementation code repository for [Learning Optical Flow from Even
 
 <img src="assets/Datapipeline.png" width="1000">
 
+## Environments
+You will have to choose cudatoolkit version to match your compute environment. The code is tested on Python 3.7 and PyTorch 1.10.1+cu113 but other versions might also work. 
+```bash
+conda create -n admflow python=3.7
+conda activate admflow
+conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+pip install -r requirements
+```
 ## Dataset
 ### MVSEC
 You need download the HDF5 files version of [MVSEC](https://daniilidis-group.github.io/mvsec/download/) datasets. We provide the code to encode the events and flow label of MVSEC dataset.
