@@ -113,10 +113,10 @@ python test_mdr.py -dt dt4 -eval
 If this work is helpful to you, please cite:
 
 ```
-@article{luo2023learning,
+@inproceedings{luo2023learning,
   title={Learning Optical Flow from Event Camera with Rendered Dataset},
   author={Luo, Xinglong and Luo, Kunming and Luo, Ao and Wang, Zhengning and Tan, Ping and Liu, Shuaicheng},
-  journal={arXiv preprint arXiv:2303.11011},
+  booktitle={ICCV},
   year={2023}
 }
 ```
