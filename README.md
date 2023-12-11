@@ -113,11 +113,13 @@ python test_mdr.py -dt dt4 -eval
 If this work is helpful to you, please cite:
 
 ```
-@inproceedings{luo2023learning,
-  title={Learning Optical Flow from Event Camera with Rendered Dataset},
-  author={Luo, Xinglong and Luo, Kunming and Luo, Ao and Wang, Zhengning and Tan, Ping and Liu, Shuaicheng},
-  booktitle={ICCV},
-  year={2023}
+@InProceedings{luo2023learning,
+    author    = {Luo, Xinglong and Luo, Kunming and Luo, Ao and Wang, Zhengning and Tan, Ping and Liu, Shuaicheng},
+    title     = {Learning Optical Flow from Event Camera with Rendered Dataset},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {9847-9857}
 }
 ```
 ## Acknowledgments
